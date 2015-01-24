@@ -4,9 +4,9 @@
 
 ## Note
 
-I'm a noob to Broccoli and to riot but I feel the need to learn both so figure it out that there should be an easy way to copile riot tags into Broccoli trees. As you may guess this plugin is far from perfect so please, please if you find a bug open a PR!.
+I'm new to Broccoli and riot as well but I feel the need to learn both, and there is no better way to learn that building something you need. As you may guess this plugin is far from perfect so please, please if you find a bug open a PR!.
 
-This project is heavily inspired (maybe more like a copy & adapt thing) on [broccoli-typescript](https://github.com/shinnn/broccoli-typescript).
+This project is heavily inspired, maybe more like a copy & adapt thing on [broccoli-typescript](https://github.com/shinnn/broccoli-typescript) so kudos to [Shinnosuke Watanabe](https://github.com/shinnn).
 
 ## Installation
 
