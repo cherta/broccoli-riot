@@ -19,7 +19,7 @@ function RiotCompiler (inputTree, options) {
 }
 
 function compile (filepath) {
-  return { name: filepath, content: riotCompiler(fs.readFileSync(filepath, 'utf-8')) };
+  return { name: filepath, content: riotCompiler.compile(fs.readFileSync(filepath, 'utf-8')) };
 }
 
 function isTagFile (filepath) {
